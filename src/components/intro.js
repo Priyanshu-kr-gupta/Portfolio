@@ -60,13 +60,7 @@ export default function Intro(props)
 
   
     </div>
-        {/* <div className="lowerintro" style={{color:x}}>
-        <Handles url="dlnpriyanshu@gmail.com"/>
-        <Handles url="https://www.linkedin.com/in/priyanshu-kumar-143995246"/>
-        <Handles url="https://github.com/priyanshu-kr-gupta"/>
-        <Handles url="https://instagram.com/priyanshu._.kmr"/>
-  
-        </div> */}
+       
         </div>
     
     )

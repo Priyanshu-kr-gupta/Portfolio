@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+<h1>Portfolio</h1>
+<p>link to visit the app will added soon</p>
+<h2>Preview</h2>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4> Intro Part</h4>
 
-## Available Scripts
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(154).png" width="500px" align="left"/>
+<p>Navbar to Navigate within the app</p><br/>
+<p>Profile Photo with intro</p>
+<p>continuosly changing text animation </p>
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(155).png" width="500px" align="left"/>
 
-In the project directory, you can run:
+<h4> Qualification Section</h4>
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(156).png" width="500px" align="left"/>
+<p>contains qualification details in different containers with a hover effect on it</p>
+<p>hover the desired container to display it</p>
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(157).png" width="500px" align="left"/>
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(158).png" width="500px" align="left"/>
+<h4> Skills Section</h4>
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(159).png" width="500px" align="left"/>
+<p>Container to showCase the skills </p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h4> Acheivement Section</h4>
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(160).png" width="500px" align="left"/>
+<p>Contains multiple containers with hover effect on it</p>
+<p>Hover to display the acheivements</p>
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(161).png" width="500px" align="left"/><img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(163).png" width="500px" align="left"/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<h4>Connect Section</h4>
+<img src="https://github.com/Priyanshu-kr-gupta/Portfolio/blob/main/Screenshot%20(164).png" width="500px" align="left"/>
+<p>contains social handels</p>
